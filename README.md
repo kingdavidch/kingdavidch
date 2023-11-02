@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kingdavid Chukwumere</h1>
 <h3 align="center">King is a software engineer specializing in iOS, Augmented, and Virtual Reality applications for gaming, education, social media, entertainment, and retail industries.</h3>
 
-- 🌱 I’m currently learning Swift, **SwiftUI, UIKIT, Reality Kit, ARKIT, AR & VR**
+- 🌱 I’m currently learning Swift & C++
 
 - 👨‍💻 All of my projects are available at [whoiskingdavid.org](whoiskingdavid.org)
 
 - 📝 I regularly write articles on [https://medium.com/@whykingdavid](https://medium.com/@whykingdavid)
 
-- 💬 Ask me about Swift, **SwiftUI & UIKIT**
+- 💬 Ask me about AR & VR
 
 - 📫 How to reach me **kingdavidscloud@gmail.com**
 
