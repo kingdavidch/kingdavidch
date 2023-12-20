@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kingdavid Chukwumere</h1>
-<h3 align="center">I am a software engineer specializing in iOS, Augmented and Virtual Reality applications for gaming, education, social media, entertainment, and retail industries. I code mainly in Swift & C++. Feel free to contact me :)</h3>
+<h3 align="center">I am an iOS & Low-Level Programmer</h3>
 
 - 👨‍💻 All of my projects are available at [whoiskingdavid.org](whoiskingdavid.org)
 
