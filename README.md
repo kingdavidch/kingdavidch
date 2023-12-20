@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@whykingdavid](https://medium.com/@whykingdavid)
 
-- 📫 How to reach me **kingdavidscloud@gmail.com**
+- 📫 Reach me at **kingdavidscloud@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1QXlhfkx6VdUmqOgQ3hmIc3SvayT3EZXH](https://drive.google.com/drive/folders/1QXlhfkx6VdUmqOgQ3hmIc3SvayT3EZXH)
 
