@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kingdavid Chukwumere</h1>
 <h3 align="center">An iOS & Low-Level Programmer</h3>
 
-- 👨‍💻 All of my projects are available at [whoiskingdavid.org](whoiskingdavid.org)
+- 👨‍💻 Check out my website at [whoiskingdavid.org](whoiskingdavid.org)
 
 - 📝 I regularly write articles on [https://medium.com/@whykingdavid](https://medium.com/@whykingdavid)
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1QXlhfkx6VdUmqOgQ3hmIc3SvayT3EZXH](https://drive.google.com/drive/folders/1QXlhfkx6VdUmqOgQ3hmIc3SvayT3EZXH)
 
-- ⚡ Fun fact **I enjoy Volleyball, Frisbee, Badminton, Wildlife, Problem Solving & Rock Climbing**
+- ⚡ **I enjoy Volleyball, Frisbee, Badminton, Wildlife, Problem Solving & Rock Climbing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
