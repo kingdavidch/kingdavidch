@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kingdavid Chukwumere</h1>
-<h3 align="center">I am an iOS & Low-Level Programmer</h3>
+<h3 align="center">An iOS & Low-Level Programmer</h3>
 
 - 👨‍💻 All of my projects are available at [whoiskingdavid.org](whoiskingdavid.org)
 
