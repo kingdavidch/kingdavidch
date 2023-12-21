@@ -1,15 +1,15 @@
 <h1 align="center">Kingdavid Chukwumere 🙃</h1>
 <h3 align="center">King is an iOS and low-level programmer who utilizes Swift to build software for the Apple ecosystem and leverages C/C++ for low-level programming. Beyond his pursuits, King founded a software company, Horus Hathor (Horushathor.org), dedicated to virtual and augmented reality development.</h3>
 
-- 👨‍💻 Check out my website at [whoiskingdavid.org](whoiskingdavid.org)
+- 👨‍💻 Check out his website at [whoiskingdavid.org](whoiskingdavid.org)
 
-- 📝 I regularly write articles on [https://medium.com/@whykingdavid](https://medium.com/@whykingdavid)
+- 📝 He regularly write articles on [https://medium.com/@whykingdavid](https://medium.com/@whykingdavid)
 
-- 📫 Reach me at **kingdavidscloud@gmail.com**
+- 📫 Reach him at **kingdavidscloud@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1QXlhfkx6VdUmqOgQ3hmIc3SvayT3EZXH](https://drive.google.com/drive/folders/1QXlhfkx6VdUmqOgQ3hmIc3SvayT3EZXH)
+- 📄 Know about his experiences [https://drive.google.com/drive/folders/1QXlhfkx6VdUmqOgQ3hmIc3SvayT3EZXH](https://drive.google.com/drive/folders/1QXlhfkx6VdUmqOgQ3hmIc3SvayT3EZXH)
 
-- ⚡ **I enjoy Volleyball, Frisbee, Badminton, Wildlife, Problem Solving & Rock Climbing**
+- ⚡ **He enjoys Volleyball, Frisbee, Badminton, Wildlife, Problem Solving & Rock Climbing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
