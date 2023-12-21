@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kingdavid Chukwumere</h1>
-<h3 align="center">An iOS & Low-Level Programmer</h3>
+<h3 align="center">King is an iOS and low-level programmer, developing applications across various industries, including gaming, education, wildlife conservation, social media, entertainment, and retail. He remains committed to learning and applying new technologies to ensure optimal user experience.
+
+
+
+King utilizes Swift to build software for the Apple ecosystem and leverages C/C++ for low-level programming.
+
+
+
+Besides his passion for software engineering, King enjoys playing professional frisbee, volleyball, and badminton. Beyond his pursuits, King founded an AR/VR company, Horus Hathor (Horushathor.org), dedicated to virtual and augmented reality development.</h3>
 
 - 👨‍💻 Check out my website at [whoiskingdavid.org](whoiskingdavid.org)
 
