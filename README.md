@@ -1,5 +1,5 @@
 <h1 align="center">Kingdavid Chukwumere 🙃</h1>
-<h3 align="center">King is an iOS and low-level programmer; King utilizes Swift to build software for the Apple ecosystem and leverages C/C++ for low-level programming. Beyond his pursuits, King founded an AR/VR company, Horus Hathor (Horushathor.org), dedicated to virtual and augmented reality development.</h3>
+<h3 align="center">King is an iOS and low-level programmer who utilizes Swift to build software for the Apple ecosystem and leverages C/C++ for low-level programming. Beyond his pursuits, King founded an AR/VR company, Horus Hathor (Horushathor.org), dedicated to virtual and augmented reality development.</h3>
 
 - 👨‍💻 Check out my website at [whoiskingdavid.org](whoiskingdavid.org)
 
