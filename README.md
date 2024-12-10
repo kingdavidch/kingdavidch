@@ -1,5 +1,5 @@
 <h1 align="center">Kingdavid Chukwumere 🙃</h1>
-<h3 align="center">King is an <strong>iOS and low-level programmer</strong> who utilizes Swift to build software for the Apple ecosystem and leverages Rust for low-level programming. Beyond his pursuits, King founded a software company, Horus Hathor (<a href="https://horushathor.org" target="_blank">horushathor.org</a>) specializing in spatial computing, and a pharmaceutical startup, LifeLine (<a href="https://lifelineafrica.app" target="_blank">lifelineafrica.app</a>).</h3>
+<h3 align="center">King is an <strong>iOS and low-level programmer</strong> who utilizes Swift to build software for the Apple ecosystem and leverages Rust for low-level programming. Beyond his pursuits, King founded a software company, Horus (<a href="https://horushathor.org" target="_blank">horushathor.org</a>) specializing in spatial computing, and a pharmaceutical startup, LifeLine (<a href="https://lifelineafrica.app" target="_blank">lifelineafrica.app</a>).</h3>
 
 - 👨‍💻 Check out his website at [whoiskingdavid.org](whoiskingdavid.org)
 
